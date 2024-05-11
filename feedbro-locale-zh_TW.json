@@ -22,7 +22,7 @@
      "addfeed_entrycontent_select_asis_body": "依訂閱源定義",
      "addfeed_entrycontent_select_asis_title": "",
      "addfeed_entrycontent_select_fulltextimage_body": "取得完整的文章內文及主圖",
-     "addfeed_entrycontent_select_fulltextimage_title": "這是解析完整文章內容的一種緩慢且不精確的方法（類似Readability）。每篇文章摘要都會發起一個單獨的HTTP GET請求。它並不適用於所有網站。主圖像取自 og:image元資料。
+     "addfeed_entrycontent_select_fulltextimage_title": "這是解析完整文章內容的一種緩慢且不精確的方法（類似Readability）。每篇文章摘要都會發起一個單獨的HTTP GET請求。它並不適用於所有網站。主圖像取自 og:image元資料。"
      "addfeed_entrycontent_select_fulltext_body": "取得全文正文",
      "addfeed_entrycontent_select_fulltext_title": "這是解析完整文章內容的一種緩慢且不精確的方法（類似Readability）。每篇文章都會發起一個單獨的HTTP GET請求。此選項不適用於所有網站。",
      "addfeed_scaninterval_body": "掃描間隔",
@@ -33,7 +33,7 @@
      "addfeed_proxy_body": "代理",
      "addfeed_proxy_none_body": "無",
      "addfeed_proxy_none_title": "無代理-直接從來源URL載入來源",
-     "addfeed_proxy_feedly_title": "使用Feedly API載入feed。這樣做的好處是Feedly儲存了完整的文章歷史記錄，因此即使電腦關閉，您也不會遺失任何文章。但請注意，Feedly在更新訂閱時可能會有 明顯的延遲。
+     "addfeed_proxy_feedly_title": "使用Feedly API載入feed。這樣做的好處是Feedly儲存了完整的文章歷史記錄，因此即使電腦關閉，您也不會遺失任何文章。但請注意，Feedly在更新訂閱時可能會有 明顯的延遲。"
      "addfeed_username_body": "使用者名稱",
      "addfeed_username_input_title": "用於驗證的使用者名稱 - 僅當來源受HTTP基本驗證保護時才需要",
      "addfeed_password_body": "密碼",
